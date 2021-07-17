@@ -1,6 +1,6 @@
 var backdrop = document.querySelector(".backdrop");
 var modal = document.querySelector(".modal");
-var button = document.querySelectorAll(".plans .button");
+var button = document.querySelectorAll("#plans-section .button");
 var hamburgerBtn = document.querySelector(".toggle-button");
 var sideMenu = document.querySelector(".mobile-nav");
 var exitSideMenuBtn = document.querySelector(".mobile-nav__exit");
